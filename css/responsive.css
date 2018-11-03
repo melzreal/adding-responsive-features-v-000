@@ -87,6 +87,11 @@
   #social {
     top: 60px;
   }
+  #news {
+    float: none;
+    padding: 10px;
+    overflow: none;
+  }
 }
 
 @media only screen and (max-width: 495px) {
