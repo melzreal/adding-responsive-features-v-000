@@ -89,7 +89,7 @@
   }
   #news {
     float: none;
-    display: block;
+    padding: 10px;
   }
 }
 
