@@ -89,6 +89,7 @@
   }
   #news {
     float: none;
+    display: block;
   }
 }
 
