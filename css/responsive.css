@@ -90,7 +90,7 @@
   #news {
     float: none;
     padding: 10px;
-    overflow: auto;
+    overflow: none;
   }
 }
 
